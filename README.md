@@ -77,13 +77,13 @@
 ```
 pkg update && pkg upgrade
 pkg install php git libicu libgnutls
-git clone https://github.com/yhn-zx/fb-bot
+git clone https://github.com/yhn-zx/yhnbot
 ```
 
 ## Run script
 ```
 cd yhnzx
-php zxbot.php
+php bot.php
 ```
 
 ## Thank you for all
